@@ -70,11 +70,14 @@ Download the latest **Release APK**:
 
 
 
-![Home Page](screenshots/home.jpg)  
-![Job Detail and Apply window](screenshots/apply.jpg)  
-![Explore](screenshots/explore.jpg)  
-![Track](screenshots/track.jpg)
-![Chat](screenshots/chat.jpg)
+
+<p float="left">
+  <img src="screenshots/home.jpg" width="200" />
+  <img src="screenshots/apply.jpg" width="200" />
+  <img src="screenshots/explore.jpg" width="200" />
+  <img src="screenshots/track.jpg" width="200" />
+  <img src="screenshots/chat.jpg" width="200" />
+</p>
 
 
 ---
